@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    justify-content: center;
+}
+
+#zoo {
+    width: 200px;
+    margin: 20px;
+}
+
+#titanic {
+    width: 200px;
+    margin: 20px;
+}
